@@ -1,10 +1,6 @@
 # Aura – Futuristic Voice Assistant
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x600/0A0A0F/6366F1?text=Aura+Assistant+–+Neural+Core" alt="Aura Screenshot" width="800"/>
-  <br>
-  <em>Replace this placeholder with a real screenshot or short animated GIF of the interface</em>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/aura-assistant/stargazers">
