@@ -1,0 +1,1122 @@
+ERROR:root:Voice listener error: main thread is not in main loop
+ERROR:root:Voice listener error: main thread is not in main loop
+2025-06-08 16:23:54,839 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-08 16:23:54,839 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-06-08 16:23:58,410 - INFO - Saved theme: light
+2025-06-08 16:23:58,414 - INFO - Theme toggled to light
+2025-06-08 16:23:58,415 - INFO - Status updated: Good afternoon! Say 'Hey Aura' to start.
+2025-06-08 16:23:58,416 - INFO - Speaking: Good afternoon! Say 'Hey Aura' to start.
+2025-06-08 16:23:58,440 - INFO - Played startup sound
+2025-06-08 16:23:58,448 - INFO - AuraAssistant initialized
+2025-06-08 16:24:00,596 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:04,097 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:04,098 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:04,100 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:04,105 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:04,109 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:05,961 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:06,408 - INFO - Saved theme: dark
+2025-06-08 16:24:06,410 - INFO - Theme toggled to dark
+2025-06-08 16:24:11,408 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:11,409 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:11,410 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:11,419 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:11,420 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:13,289 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:18,245 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:18,245 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:18,246 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:18,251 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:18,251 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:20,113 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:27,964 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:27,964 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:27,964 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:27,973 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:27,974 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:29,809 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:33,534 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:33,537 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:33,538 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:33,546 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:34,318 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:35,411 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:38,484 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:38,489 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:38,491 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:38,497 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:40,337 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:40,504 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:43,287 - INFO - Added to history: You: hi
+2025-06-08 16:24:43,287 - INFO - Processing command: hi
+2025-06-08 16:24:43,288 - INFO - Status updated: Hey! Ready to assist.
+2025-06-08 16:24:43,289 - INFO - Added to history: Aura: Hey! Ready to assist.
+2025-06-08 16:24:44,359 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:44,359 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:44,360 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:44,367 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:46,204 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:46,691 - INFO - Speaking: Hey! Ready to assist.
+2025-06-08 16:24:49,661 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:49,662 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:49,662 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:49,669 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:49,733 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:51,525 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:54,082 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-08 16:24:54,083 - INFO - Status updated: Unable to connect to speech service. Switching to offline mode.
+2025-06-08 16:24:54,083 - INFO - Status updated: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:54,090 - INFO - Added to history: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:55,933 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-08 16:24:56,124 - INFO - Speaking: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:59,012 - INFO - Application closed
+2025-06-08 16:25:00,093 - ERROR - Speech service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-06-09 11:24:15,451 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-09 11:24:15,451 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-06-09 11:24:19,540 - INFO - Status updated: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:24:19,541 - INFO - Speaking: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:24:19,561 - INFO - Played startup sound
+2025-06-09 11:24:19,570 - INFO - AuraAssistant initialized
+2025-06-09 11:24:21,718 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:24:26,531 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:24:28,391 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:24:31,453 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:24:32,841 - INFO - Saved theme: light
+2025-06-09 11:24:32,844 - INFO - Theme toggled to light
+2025-06-09 11:24:33,299 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:24:34,246 - INFO - Saved theme: dark
+2025-06-09 11:24:34,249 - INFO - Theme toggled to dark
+2025-06-09 11:24:35,643 - INFO - Application closed
+2025-06-09 11:35:19,428 - INFO - Status updated: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:35:19,429 - INFO - Speaking: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:35:19,430 - INFO - Played startup sound
+2025-06-09 11:35:19,436 - INFO - AuraAssistant initialized
+2025-06-09 11:35:21,330 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:35:25,428 - INFO - Saved theme: light
+2025-06-09 11:35:25,430 - INFO - Theme toggled to light
+2025-06-09 11:35:25,919 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:35:27,283 - INFO - Saved theme: dark
+2025-06-09 11:35:27,285 - INFO - Theme toggled to dark
+2025-06-09 11:35:27,823 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:35:28,836 - INFO - Application closed
+2025-06-09 11:35:32,513 - INFO - Status updated: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:35:32,514 - INFO - Speaking: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:35:32,515 - INFO - Played startup sound
+2025-06-09 11:35:32,521 - INFO - AuraAssistant initialized
+2025-06-09 11:35:34,378 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:35:35,290 - INFO - Application closed
+2025-06-09 11:36:26,776 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-09 11:36:26,776 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-06-09 11:36:29,929 - INFO - Status updated: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:36:29,930 - INFO - Speaking: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:36:29,932 - INFO - Played startup sound
+2025-06-09 11:36:29,937 - INFO - AuraAssistant initialized
+2025-06-09 11:36:31,938 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:36:34,746 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:36:36,591 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:36:40,924 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:36:42,777 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:36:51,490 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:36:53,359 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:36:58,374 - INFO - Added to history: You: hey aura
+2025-06-09 11:36:58,374 - INFO - Processing command: hey aura
+2025-06-09 11:36:58,375 - INFO - Status updated: Sorry, I didn't catch that. Try again?
+2025-06-09 11:36:58,376 - INFO - Added to history: Aura: Sorry, I didn't catch that. Try again?
+2025-06-09 11:36:58,376 - INFO - Speaking: Sorry, I didn't catch that. Try again?
+2025-06-09 11:37:00,104 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:37:01,938 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:04,668 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:37:06,489 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:12,012 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:37:12,747 - INFO - Conversation history cleared
+2025-06-09 11:37:13,856 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:20,286 - INFO - Added to history: You: hey aura
+2025-06-09 11:37:20,286 - INFO - Processing command: hey aura
+2025-06-09 11:37:20,286 - INFO - Status updated: I'm not sure what you mean. Could you repeat that?
+2025-06-09 11:37:20,288 - INFO - Added to history: Aura: I'm not sure what you mean. Could you repeat that?
+2025-06-09 11:37:20,289 - INFO - Speaking: I'm not sure what you mean. Could you repeat that?
+2025-06-09 11:37:21,020 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:37:22,868 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:25,437 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:37:27,270 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:32,677 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:37:34,530 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:41,320 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:37:43,205 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:37:43,769 - INFO - Application closed
+2025-06-09 11:40:01,850 - INFO - Status updated: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:40:01,851 - INFO - Speaking: Good morning! Say 'Hey Aura' to start.
+2025-06-09 11:40:01,852 - INFO - Played startup sound
+2025-06-09 11:40:01,857 - INFO - AuraAssistant initialized
+2025-06-09 11:40:03,753 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:40:06,438 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:40:08,293 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:40:12,419 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:40:14,243 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:40:17,325 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:40:19,177 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:40:24,545 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:40:26,414 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:40:35,242 - INFO - Status updated: Say 'Hey Aura' to activate.
+2025-06-09 11:40:37,103 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-09 11:40:39,253 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-09 11:40:40,384 - INFO - Application closed
+2025-06-09 11:40:42,107 - ERROR - Voice listener error: main thread is not in main loop
+2025-06-09 11:47:11,390 - ERROR - Voice listener error: main thread is not in main loop
+2025-06-09 11:47:19,637 - ERROR - Voice listener error: main thread is not in main loop
+2025-06-10 11:24:10,172 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-10 11:24:10,174 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-06-10 11:24:13,761 - INFO - Status updated: Good morning! Say 'Hey Aura' to start.
+2025-06-10 11:24:13,762 - INFO - Speaking: Good morning! Say 'Hey Aura' to start.
+2025-06-10 11:24:13,783 - INFO - Played startup sound
+2025-06-10 11:24:13,791 - INFO - AuraAssistant initialized
+2025-06-10 11:24:15,856 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-10 11:24:20,840 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 11:24:22,730 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-10 11:24:27,104 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 11:24:28,959 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-10 11:24:31,470 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 11:24:33,297 - INFO - Status updated: Say 'Hey Aura' to activate...
+2025-06-10 11:24:33,815 - INFO - Application closed
+2025-06-10 11:42:14,022 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:14,062 - INFO - Added to history: Aura: Good morning! I'm listening and ready to assist.
+2025-06-10 11:42:14,064 - INFO - Speaking: Good morning! I'm listening and ready to assist.
+2025-06-10 11:42:14,065 - INFO - Played startup sound
+2025-06-10 11:42:14,071 - INFO - AuraAssistant initialized
+2025-06-10 11:42:15,956 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:16,930 - INFO - Application closed
+2025-06-10 11:42:20,698 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:20,706 - INFO - Added to history: Aura: Good morning! I'm listening and ready to assist.
+2025-06-10 11:42:20,707 - INFO - Speaking: Good morning! I'm listening and ready to assist.
+2025-06-10 11:42:20,707 - ERROR - Speech error: run loop already started
+2025-06-10 11:42:20,707 - INFO - Played startup sound
+2025-06-10 11:42:20,711 - INFO - AuraAssistant initialized
+2025-06-10 11:42:22,257 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:24,732 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 11:42:25,792 - ERROR - Voice listener error: main thread is not in main loop
+2025-06-10 11:42:26,267 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:32,602 - INFO - Added to history: You: hello
+2025-06-10 11:42:32,603 - INFO - Voice command received: hello
+2025-06-10 11:42:32,603 - INFO - Processing command: hello
+2025-06-10 11:42:32,606 - INFO - Status updated: Hi there! What's up?
+2025-06-10 11:42:32,633 - INFO - Added to history: Aura: Hi there! What's up?
+2025-06-10 11:42:32,634 - INFO - Speaking: Hi there! What's up?
+2025-06-10 11:42:34,511 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:37,296 - INFO - Added to history: You: open youtube
+2025-06-10 11:42:37,296 - INFO - Voice command received: open youtube
+2025-06-10 11:42:37,296 - INFO - Processing command: open youtube
+2025-06-10 11:42:37,522 - INFO - YouTube search: open
+2025-06-10 11:42:37,526 - INFO - Status updated: Playing open on YouTube.
+2025-06-10 11:42:37,573 - INFO - Added to history: Aura: Playing open on YouTube.
+2025-06-10 11:42:37,574 - INFO - Speaking: Playing open on YouTube.
+2025-06-10 11:42:39,588 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:47,566 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:49,465 - INFO - Status updated: I'm listening...
+2025-06-10 11:42:49,936 - INFO - Application closed
+2025-06-10 18:37:32,769 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-10 18:37:32,769 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-06-10 18:37:36,071 - INFO - Status updated: I'm listening...
+2025-06-10 18:37:36,089 - INFO - Added to history: Aura: Good evening! I'm listening and ready to assist.
+2025-06-10 18:37:36,090 - INFO - Speaking: Good evening! I'm listening and ready to assist.
+2025-06-10 18:37:36,108 - INFO - Played startup sound
+2025-06-10 18:37:36,115 - INFO - AuraAssistant initialized
+2025-06-10 18:37:38,144 - INFO - Status updated: I'm listening...
+2025-06-10 18:37:41,332 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:37:43,160 - INFO - Status updated: I'm listening...
+2025-06-10 18:37:46,498 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:37:48,328 - INFO - Status updated: I'm listening...
+2025-06-10 18:37:50,505 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:37:52,321 - INFO - Status updated: I'm listening...
+2025-06-10 18:37:55,007 - INFO - Added to history: You: open google
+2025-06-10 18:37:55,007 - INFO - Voice command received: open google
+2025-06-10 18:37:55,007 - INFO - Processing command: open google
+2025-06-10 18:37:55,193 - INFO - Opened Google
+2025-06-10 18:37:55,201 - INFO - Status updated: Opening Google.
+2025-06-10 18:37:55,228 - INFO - Added to history: Aura: Opening Google.
+2025-06-10 18:37:55,230 - INFO - Speaking: Opening Google.
+2025-06-10 18:37:57,168 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:03,277 - INFO - Added to history: You: hello how r u
+2025-06-10 18:38:03,277 - INFO - Voice command received: hello how r u
+2025-06-10 18:38:03,279 - INFO - Processing command: hello how r u
+2025-06-10 18:38:03,281 - INFO - Status updated: Hello! How can I help you?
+2025-06-10 18:38:03,291 - INFO - Added to history: Aura: Hello! How can I help you?
+2025-06-10 18:38:03,292 - INFO - Speaking: Hello! How can I help you?
+2025-06-10 18:38:05,134 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:07,484 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:38:09,317 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:14,724 - INFO - Added to history: You: namak ishq ka on
+2025-06-10 18:38:14,725 - INFO - Voice command received: namak ishq ka on
+2025-06-10 18:38:14,725 - INFO - Processing command: namak ishq ka on
+2025-06-10 18:38:14,727 - INFO - Status updated: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:14,739 - INFO - Added to history: Aura: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:14,741 - INFO - Speaking: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:16,599 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:25,809 - INFO - Added to history: You: namak ishq ka on youtube
+2025-06-10 18:38:25,809 - INFO - Voice command received: namak ishq ka on youtube
+2025-06-10 18:38:25,809 - INFO - Processing command: namak ishq ka on youtube
+2025-06-10 18:38:25,846 - INFO - YouTube search: namak ishq ka
+2025-06-10 18:38:25,852 - INFO - Status updated: Playing namak ishq ka on YouTube.
+2025-06-10 18:38:25,863 - INFO - Added to history: Aura: Playing namak ishq ka on YouTube.
+2025-06-10 18:38:25,864 - INFO - Speaking: Playing namak ishq ka on YouTube.
+2025-06-10 18:38:27,787 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:35,957 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:38:37,787 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:46,214 - INFO - Added to history: You: ice cream google
+2025-06-10 18:38:46,215 - INFO - Voice command received: ice cream google
+2025-06-10 18:38:46,215 - INFO - Processing command: ice cream google
+2025-06-10 18:38:46,217 - INFO - Status updated: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:38:46,245 - INFO - Added to history: Aura: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:38:46,246 - INFO - Speaking: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:38:48,074 - INFO - Status updated: I'm listening...
+2025-06-10 18:38:53,856 - INFO - Added to history: You: ice cream google
+2025-06-10 18:38:53,856 - INFO - Voice command received: ice cream google
+2025-06-10 18:38:53,856 - INFO - Processing command: ice cream google
+2025-06-10 18:38:53,861 - INFO - Status updated: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:53,868 - INFO - Added to history: Aura: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:53,870 - INFO - Speaking: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:55,713 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:02,422 - INFO - Added to history: You: ice cream google it it
+2025-06-10 18:39:02,422 - INFO - Voice command received: ice cream google it it
+2025-06-10 18:39:02,422 - INFO - Processing command: ice cream google it it
+2025-06-10 18:39:02,454 - INFO - Google search: ice cream
+2025-06-10 18:39:02,455 - INFO - Status updated: Searching for ice cream on Google.
+2025-06-10 18:39:02,459 - INFO - Added to history: Aura: Searching for ice cream on Google.
+2025-06-10 18:39:02,461 - INFO - Speaking: Searching for ice cream on Google.
+2025-06-10 18:39:04,397 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:08,820 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:39:10,725 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:14,376 - INFO - Added to history: You: open youtube
+2025-06-10 18:39:14,377 - INFO - Voice command received: open youtube
+2025-06-10 18:39:14,377 - INFO - Processing command: open youtube
+2025-06-10 18:39:14,410 - INFO - YouTube search: open
+2025-06-10 18:39:14,419 - INFO - Status updated: Playing open on YouTube.
+2025-06-10 18:39:14,437 - INFO - Added to history: Aura: Playing open on YouTube.
+2025-06-10 18:39:14,437 - INFO - Speaking: Playing open on YouTube.
+2025-06-10 18:39:16,340 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:18,958 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:39:20,834 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:24,421 - INFO - Added to history: You: open notepad
+2025-06-10 18:39:24,422 - INFO - Voice command received: open notepad
+2025-06-10 18:39:24,422 - INFO - Processing command: open notepad
+2025-06-10 18:39:24,752 - INFO - Opened text editor
+2025-06-10 18:39:24,755 - INFO - Status updated: Opening Notepad.
+2025-06-10 18:39:24,761 - INFO - Added to history: Aura: Opening Notepad.
+2025-06-10 18:39:24,762 - INFO - Speaking: Opening Notepad.
+2025-06-10 18:39:26,641 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:34,172 - INFO - Added to history: You: what is the weather
+2025-06-10 18:39:34,172 - INFO - Voice command received: what is the weather
+2025-06-10 18:39:34,172 - INFO - Processing command: what is the weather
+2025-06-10 18:39:34,670 - INFO - Requested http://ipinfo.io/json
+2025-06-10 18:39:34,932 - INFO - Weather for Ahmedabad: clear sky, 39.12°C
+2025-06-10 18:39:34,936 - INFO - Status updated: The weather in Ahmedabad is clear sky with a temperature of 39.12°C.
+2025-06-10 18:39:34,946 - INFO - Added to history: Aura: The weather in Ahmedabad is clear sky with a temperature of 39.12°C.
+2025-06-10 18:39:34,947 - INFO - Speaking: The weather in Ahmedabad is clear sky with a temperature of 39.12°C.
+2025-06-10 18:39:36,772 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:39,172 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:39:40,995 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:43,686 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:39:45,522 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:50,614 - INFO - Added to history: You: what is the day
+2025-06-10 18:39:50,614 - INFO - Voice command received: what is the day
+2025-06-10 18:39:50,615 - INFO - Processing command: what is the day
+2025-06-10 18:39:50,617 - INFO - Status updated: Could you clarify your command?
+2025-06-10 18:39:50,630 - INFO - Added to history: Aura: Could you clarify your command?
+2025-06-10 18:39:50,630 - INFO - Speaking: Could you clarify your command?
+2025-06-10 18:39:52,452 - INFO - Status updated: I'm listening...
+2025-06-10 18:39:57,580 - INFO - Added to history: You: what is the
+2025-06-10 18:39:57,580 - INFO - Voice command received: what is the
+2025-06-10 18:39:57,580 - INFO - Processing command: what is the
+2025-06-10 18:39:57,582 - INFO - Status updated: Sorry, I didn't catch that. Try again?
+2025-06-10 18:39:57,592 - INFO - Added to history: Aura: Sorry, I didn't catch that. Try again?
+2025-06-10 18:39:57,594 - INFO - Speaking: Sorry, I didn't catch that. Try again?
+2025-06-10 18:39:59,438 - INFO - Status updated: I'm listening...
+2025-06-10 18:40:05,937 - INFO - Added to history: You: what is the
+2025-06-10 18:40:05,937 - INFO - Voice command received: what is the
+2025-06-10 18:40:05,937 - INFO - Processing command: what is the
+2025-06-10 18:40:05,943 - INFO - Status updated: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:40:05,965 - INFO - Added to history: Aura: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:40:05,966 - INFO - Speaking: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:40:07,821 - INFO - Status updated: I'm listening...
+2025-06-10 18:40:14,955 - INFO - Added to history: You: what is the date date
+2025-06-10 18:40:14,955 - INFO - Voice command received: what is the date date
+2025-06-10 18:40:14,955 - INFO - Processing command: what is the date date
+2025-06-10 18:40:14,955 - INFO - Date requested: Tuesday, June 10, 2025
+2025-06-10 18:40:14,957 - INFO - Status updated: Today is Tuesday, June 10, 2025.
+2025-06-10 18:40:14,980 - INFO - Added to history: Aura: Today is Tuesday, June 10, 2025.
+2025-06-10 18:40:14,981 - INFO - Speaking: Today is Tuesday, June 10, 2025.
+2025-06-10 18:40:16,831 - INFO - Status updated: I'm listening...
+2025-06-10 18:40:20,428 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:40:22,264 - INFO - Status updated: I'm listening...
+2025-06-10 18:40:27,328 - INFO - Added to history: You: any coffee shop near by me
+2025-06-10 18:40:27,328 - INFO - Voice command received: any coffee shop near by me
+2025-06-10 18:40:27,328 - INFO - Processing command: any coffee shop near by me
+2025-06-10 18:40:27,331 - INFO - Status updated: Sorry, I didn't catch that. Try again?
+2025-06-10 18:40:27,344 - INFO - Added to history: Aura: Sorry, I didn't catch that. Try again?
+2025-06-10 18:40:27,346 - INFO - Speaking: Sorry, I didn't catch that. Try again?
+2025-06-10 18:40:29,188 - INFO - Status updated: I'm listening...
+2025-06-10 18:40:33,124 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-10 18:40:34,953 - INFO - Status updated: I'm listening...
+2025-06-10 18:40:35,624 - INFO - Application closed
+2025-06-11 00:19:44,192 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-11 00:19:44,193 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-06-11 00:19:47,746 - INFO - Status updated: I'm listening...
+2025-06-11 00:19:47,755 - INFO - Added to history: Aura: Hello! I'm listening and ready to assist.
+2025-06-11 00:19:47,756 - INFO - Speaking: Hello! I'm listening and ready to assist.
+2025-06-11 00:19:47,775 - INFO - Played startup sound
+2025-06-11 00:19:47,783 - INFO - AuraAssistant initialized
+2025-06-11 00:19:49,936 - INFO - Status updated: I'm listening...
+2025-06-11 00:19:55,369 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:19:57,229 - INFO - Status updated: I'm listening...
+2025-06-11 00:19:57,589 - INFO - Added to history: You: hi
+2025-06-11 00:19:57,589 - INFO - Processing command: hi
+2025-06-11 00:19:57,591 - INFO - Status updated: Hi there! What's up?
+2025-06-11 00:19:57,593 - INFO - Added to history: Aura: Hi there! What's up?
+2025-06-11 00:19:57,593 - INFO - Speaking: Hi there! What's up?
+2025-06-11 00:19:59,956 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:20:01,795 - INFO - Status updated: I'm listening...
+2025-06-11 00:20:04,903 - INFO - Added to history: You: open google
+2025-06-11 00:20:04,903 - INFO - Processing command: open google
+2025-06-11 00:20:05,051 - INFO - Opened Google
+2025-06-11 00:20:05,051 - INFO - Status updated: Opening Google.
+2025-06-11 00:20:05,054 - INFO - Added to history: Aura: Opening Google.
+2025-06-11 00:20:05,055 - INFO - Speaking: Opening Google.
+2025-06-11 00:20:05,160 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:20:07,094 - INFO - Status updated: I'm listening...
+2025-06-11 00:20:10,651 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:20:12,488 - INFO - Status updated: I'm listening...
+2025-06-11 00:20:18,775 - INFO - Added to history: You: play masakali maskali on youtube
+2025-06-11 00:20:18,775 - INFO - Processing command: play masakali maskali on youtube
+2025-06-11 00:20:18,805 - INFO - YouTube search: masakali maskali
+2025-06-11 00:20:18,806 - INFO - Status updated: Playing masakali maskali on YouTube.
+2025-06-11 00:20:18,809 - INFO - Added to history: Aura: Playing masakali maskali on YouTube.
+2025-06-11 00:20:18,810 - INFO - Speaking: Playing masakali maskali on YouTube.
+2025-06-11 00:20:26,008 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:20:27,847 - INFO - Status updated: I'm listening...
+2025-06-11 00:20:33,693 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:20:35,560 - INFO - Status updated: I'm listening...
+2025-06-11 00:20:49,161 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:20:51,705 - INFO - Status updated: I'm listening...
+2025-06-11 00:27:15,058 - INFO - Status updated: Sorry, I didn't understand that.
+2025-06-11 00:27:15,940 - INFO - Application closed
+2025-09-01 11:28:46,831 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-01 11:28:46,832 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-09-01 11:28:47,550 - ERROR - Translator initialization failed: name 'Translator' is not defined
+2025-09-01 11:28:49,291 - INFO - Status: I'm listening...
+2025-09-01 11:28:49,299 - INFO - Speaking: Good morning! I'm ready to assist you today.
+2025-09-01 11:28:49,327 - INFO - Played startup sound
+2025-09-01 11:28:50,835 - INFO - Status: Listening...
+2025-09-01 11:28:58,872 - INFO - Voice command: hello good morning
+2025-09-01 11:28:58,872 - INFO - Processing: hello good morning
+2025-09-01 11:28:58,874 - INFO - Status: Hi there! What can I do for you?
+2025-09-01 11:28:58,883 - INFO - Speaking: Hi there! What can I do for you?
+2025-09-01 11:29:00,160 - INFO - Status: Listening...
+2025-09-01 11:29:03,126 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:29:05,404 - INFO - Status: Listening...
+2025-09-01 11:29:12,727 - INFO - Voice command: how is the weather today
+2025-09-01 11:29:12,727 - INFO - Processing: how is the weather today
+2025-09-01 11:29:13,085 - INFO - Status: Weather data not available for today. Please check the city name.
+2025-09-01 11:29:13,094 - INFO - Speaking: Weather data not available for today. Please check the city name.
+2025-09-01 11:29:14,390 - INFO - Status: Listening...
+2025-09-01 11:29:17,161 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:29:19,437 - INFO - Status: Listening...
+2025-09-01 11:29:22,351 - INFO - Voice command: open google
+2025-09-01 11:29:22,352 - INFO - Processing: open google
+2025-09-01 11:29:22,602 - INFO - Status: Opening Google.
+2025-09-01 11:29:22,611 - INFO - Speaking: Opening Google.
+2025-09-01 11:29:23,887 - INFO - Status: Listening...
+2025-09-01 11:29:27,203 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:29:29,545 - INFO - Status: Listening...
+2025-09-01 11:29:37,378 - INFO - Voice command: play chaiyya chaiyya on youtube
+2025-09-01 11:29:37,378 - INFO - Processing: play chaiyya chaiyya on youtube
+2025-09-01 11:29:37,411 - INFO - Status: Searching for 'chaiyya chaiyya' on YouTube.
+2025-09-01 11:29:37,422 - INFO - Speaking: Searching for 'chaiyya chaiyya' on YouTube.
+2025-09-01 11:29:38,754 - INFO - Status: Listening...
+2025-09-01 11:29:41,508 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:29:43,812 - INFO - Status: Listening...
+2025-09-01 11:29:50,964 - INFO - Voice command: can you give me flower result on google
+2025-09-01 11:29:50,964 - INFO - Processing: can you give me flower result on google
+2025-09-01 11:29:50,967 - INFO - Status: Please specify what to search for.
+2025-09-01 11:29:50,978 - INFO - Speaking: Please specify what to search for.
+2025-09-01 11:29:52,274 - INFO - Status: Listening...
+2025-09-01 11:29:59,846 - INFO - Voice command: flower on google
+2025-09-01 11:29:59,846 - INFO - Processing: flower on google
+2025-09-01 11:29:59,848 - INFO - Status: Please specify what to search for.
+2025-09-01 11:29:59,862 - INFO - Speaking: Please specify what to search for.
+2025-09-01 11:30:01,145 - INFO - Status: Listening...
+2025-09-01 11:30:06,455 - INFO - Voice command: flower google
+2025-09-01 11:30:06,455 - INFO - Processing: flower google
+2025-09-01 11:30:06,457 - INFO - Status: Please specify what to search for.
+2025-09-01 11:30:06,467 - INFO - Speaking: Please specify what to search for.
+2025-09-01 11:30:07,769 - INFO - Status: Listening...
+2025-09-01 11:30:12,455 - INFO - Voice command: search
+2025-09-01 11:30:12,455 - INFO - Processing: search
+2025-09-01 11:30:12,458 - INFO - Status: Please specify what to search for.
+2025-09-01 11:30:12,465 - INFO - Speaking: Please specify what to search for.
+2025-09-01 11:30:13,758 - INFO - Status: Listening...
+2025-09-01 11:30:16,851 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:30:19,127 - INFO - Status: Listening...
+2025-09-01 11:30:23,927 - INFO - Voice command: flower on google
+2025-09-01 11:30:23,927 - INFO - Processing: flower on google
+2025-09-01 11:30:23,932 - INFO - Status: Please specify what to search for.
+2025-09-01 11:30:23,940 - INFO - Speaking: Please specify what to search for.
+2025-09-01 11:30:25,220 - INFO - Status: Listening...
+2025-09-01 11:30:28,408 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:30:30,685 - INFO - Status: Listening...
+2025-09-01 11:30:31,678 - INFO - Shutting down Aura Assistant...
+2025-09-01 11:30:41,723 - ERROR - Status update error: main thread is not in main loop
+2025-09-01 11:36:40,632 - ERROR - Translator initialization failed: name 'Translator' is not defined
+2025-09-01 11:36:41,786 - INFO - Status: I'm listening...
+2025-09-01 11:36:41,797 - INFO - Speaking: Good morning! I'm ready to assist you today.
+2025-09-01 11:36:41,811 - INFO - Played startup sound
+2025-09-01 11:36:43,207 - INFO - Status: Listening...
+2025-09-01 11:36:49,751 - INFO - Voice command: good morning
+2025-09-01 11:36:49,752 - INFO - Processing: good morning
+2025-09-01 11:36:49,752 - INFO - Status: I didn't quite catch that. Please try again.
+2025-09-01 11:36:49,758 - INFO - Speaking: I didn't quite catch that. Please try again.
+2025-09-01 11:36:51,032 - INFO - Status: Listening...
+2025-09-01 11:36:55,418 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:36:57,697 - INFO - Status: Listening...
+2025-09-01 11:37:01,184 - INFO - Voice command: open google
+2025-09-01 11:37:01,184 - INFO - Processing: open google
+2025-09-01 11:37:01,220 - INFO - Status: Opening Google.
+2025-09-01 11:37:01,227 - INFO - Speaking: Opening Google.
+2025-09-01 11:37:02,550 - INFO - Status: Listening...
+2025-09-01 11:37:08,781 - INFO - Voice command: ok play chaiyya chaiyya on youtube
+2025-09-01 11:37:08,781 - INFO - Processing: ok play chaiyya chaiyya on youtube
+2025-09-01 11:37:08,808 - INFO - Status: Searching for 'chaiyya chaiyya' on YouTube.
+2025-09-01 11:37:08,816 - INFO - Speaking: Searching for 'chaiyya chaiyya' on YouTube.
+2025-09-01 11:37:10,152 - INFO - Status: Listening...
+2025-09-01 11:37:13,230 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:37:15,506 - INFO - Status: Listening...
+2025-09-01 11:37:17,382 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:37:19,675 - INFO - Status: Listening...
+2025-09-01 11:37:22,875 - INFO - Voice command: weather in ahmedabad
+2025-09-01 11:37:22,875 - INFO - Processing: weather in ahmedabad
+2025-09-01 11:37:23,145 - INFO - Status: Weather in ahmedabad: scattered clouds, 31°C (feels like 36°C), humidity 65%.
+2025-09-01 11:37:23,156 - INFO - Speaking: Weather in ahmedabad: scattered clouds, 31°C (feels like 36°C), humidity 65%.
+2025-09-01 11:37:24,450 - INFO - Status: Listening...
+2025-09-01 11:37:32,813 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:37:35,089 - INFO - Status: Listening...
+2025-09-01 11:37:43,633 - INFO - Voice command: so what the time it is
+2025-09-01 11:37:43,633 - INFO - Processing: so what the time it is
+2025-09-01 11:37:43,640 - INFO - Status: The current time is 11:37 AM.
+2025-09-01 11:37:43,648 - INFO - Speaking: The current time is 11:37 AM.
+2025-09-01 11:37:44,925 - INFO - Status: Listening...
+2025-09-01 11:37:50,786 - INFO - Voice command: what is today's date
+2025-09-01 11:37:50,786 - INFO - Processing: what is today's date
+2025-09-01 11:37:50,788 - INFO - Status: Today is Monday, September 01, 2025.
+2025-09-01 11:37:50,796 - INFO - Speaking: Today is Monday, September 01, 2025.
+2025-09-01 11:37:52,078 - INFO - Status: Listening...
+2025-09-01 11:37:57,723 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:38:00,008 - INFO - Status: Listening...
+2025-09-01 11:38:06,423 - INFO - Voice command: open gmail
+2025-09-01 11:38:06,423 - INFO - Processing: open gmail
+2025-09-01 11:38:06,455 - INFO - Status: Opening Gmail.
+2025-09-01 11:38:06,463 - INFO - Speaking: Opening Gmail.
+2025-09-01 11:38:07,800 - INFO - Status: Listening...
+2025-09-01 11:38:19,935 - INFO - Voice command: ok open whatsapp app
+2025-09-01 11:38:19,935 - INFO - Processing: ok open whatsapp app
+2025-09-01 11:38:19,964 - INFO - Status: Opening Whatsapp.
+2025-09-01 11:38:19,970 - INFO - Speaking: Opening Whatsapp.
+2025-09-01 11:38:21,311 - INFO - Status: Listening...
+2025-09-01 11:38:31,147 - INFO - Voice command: open map
+2025-09-01 11:38:31,148 - INFO - Processing: open map
+2025-09-01 11:38:31,149 - INFO - Status: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:38:31,157 - INFO - Speaking: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:38:32,473 - INFO - Status: Listening...
+2025-09-01 11:38:41,476 - INFO - Voice command: open google map
+2025-09-01 11:38:41,476 - INFO - Processing: open google map
+2025-09-01 11:38:41,505 - INFO - Status: Opening Google.
+2025-09-01 11:38:41,514 - INFO - Speaking: Opening Google.
+2025-09-01 11:38:42,960 - INFO - Status: Listening...
+2025-09-01 11:38:47,933 - INFO - Voice command: open netflix
+2025-09-01 11:38:47,933 - INFO - Processing: open netflix
+2025-09-01 11:38:47,982 - INFO - Status: Opening Netflix.
+2025-09-01 11:38:47,988 - INFO - Speaking: Opening Netflix.
+2025-09-01 11:38:49,472 - INFO - Status: Listening...
+2025-09-01 11:38:56,392 - INFO - Voice command: open
+2025-09-01 11:38:56,392 - INFO - Processing: open
+2025-09-01 11:38:56,397 - INFO - Status: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:38:56,408 - INFO - Speaking: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:38:57,806 - INFO - Status: Listening...
+2025-09-01 11:39:03,707 - INFO - Voice command: open spotify
+2025-09-01 11:39:03,707 - INFO - Processing: open spotify
+2025-09-01 11:39:03,736 - INFO - Status: Opening Spotify.
+2025-09-01 11:39:04,460 - INFO - Speaking: Opening Spotify.
+2025-09-01 11:39:05,101 - INFO - Status: Listening...
+2025-09-01 11:39:13,947 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:39:16,275 - INFO - Status: Listening...
+2025-09-01 11:39:22,620 - INFO - Voice command: translate hello to span
+2025-09-01 11:39:22,620 - INFO - Processing: translate hello to span
+2025-09-01 11:39:22,622 - INFO - Status: Translation service not available.
+2025-09-01 11:39:22,626 - INFO - Speaking: Translation service not available.
+2025-09-01 11:39:23,919 - INFO - Status: Listening...
+2025-09-01 11:39:27,468 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:39:29,769 - INFO - Status: Listening...
+2025-09-01 11:39:33,106 - INFO - Voice command: adani to spanish
+2025-09-01 11:39:33,106 - INFO - Processing: adani to spanish
+2025-09-01 11:39:33,108 - INFO - Status: Can you be more specific about what you need?
+2025-09-01 11:39:33,115 - INFO - Speaking: Can you be more specific about what you need?
+2025-09-01 11:39:34,410 - INFO - Status: Listening...
+2025-09-01 11:39:43,028 - INFO - Voice command: translate sans rajdhani to spanish
+2025-09-01 11:39:43,028 - INFO - Processing: translate sans rajdhani to spanish
+2025-09-01 11:39:43,031 - INFO - Status: Translation service not available.
+2025-09-01 11:39:43,041 - INFO - Speaking: Translation service not available.
+2025-09-01 11:39:44,325 - INFO - Status: Listening...
+2025-09-01 11:39:47,751 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:39:50,026 - INFO - Status: Listening...
+2025-09-01 11:39:52,157 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:39:54,424 - INFO - Status: Listening...
+2025-09-01 11:40:01,798 - INFO - Voice command: open files and tst
+2025-09-01 11:40:01,798 - INFO - Processing: open files and tst
+2025-09-01 11:40:01,800 - INFO - Status: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:40:01,809 - INFO - Speaking: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:40:03,090 - INFO - Status: Listening...
+2025-09-01 11:40:09,798 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:40:12,066 - INFO - Status: Listening...
+2025-09-01 11:40:18,562 - INFO - Voice command: direction to airport
+2025-09-01 11:40:18,563 - INFO - Processing: direction to airport
+2025-09-01 11:40:18,565 - INFO - Status: I'm here to help! What would you like to know or do?
+2025-09-01 11:40:18,579 - INFO - Speaking: I'm here to help! What would you like to know or do?
+2025-09-01 11:40:19,863 - INFO - Status: Listening...
+2025-09-01 11:40:28,684 - INFO - Voice command: tell me a joke
+2025-09-01 11:40:28,684 - INFO - Processing: tell me a joke
+2025-09-01 11:40:28,686 - INFO - Status: Why did the computer go to art school? To improve its graphics!
+2025-09-01 11:40:28,693 - INFO - Speaking: Why did the computer go to art school? To improve its graphics!
+2025-09-01 11:40:29,974 - INFO - Status: Listening...
+2025-09-01 11:40:35,608 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:40:37,890 - INFO - Status: Listening...
+2025-09-01 11:40:40,031 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:40:42,301 - INFO - Status: Listening...
+2025-09-01 11:40:49,836 - INFO - Voice command: how
+2025-09-01 11:40:49,836 - INFO - Processing: how
+2025-09-01 11:40:49,839 - INFO - Status: I didn't quite catch that. Please try again.
+2025-09-01 11:40:49,854 - INFO - Speaking: I didn't quite catch that. Please try again.
+2025-09-01 11:40:51,153 - INFO - Status: Listening...
+2025-09-01 11:40:53,125 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:40:55,404 - INFO - Status: Listening...
+2025-09-01 11:40:57,686 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:40:59,969 - INFO - Status: Listening...
+2025-09-01 11:41:04,715 - INFO - Voice command: how are you
+2025-09-01 11:41:04,715 - INFO - Processing: how are you
+2025-09-01 11:41:04,718 - INFO - Status: I'm functioning well, thank you! How are you?
+2025-09-01 11:41:04,726 - INFO - Speaking: I'm functioning well, thank you! How are you?
+2025-09-01 11:41:06,026 - INFO - Status: Listening...
+2025-09-01 11:41:12,323 - INFO - Voice command: i am good
+2025-09-01 11:41:12,323 - INFO - Processing: i am good
+2025-09-01 11:41:12,325 - INFO - Status: I didn't quite catch that. Please try again.
+2025-09-01 11:41:12,333 - INFO - Speaking: I didn't quite catch that. Please try again.
+2025-09-01 11:41:13,624 - INFO - Status: Listening...
+2025-09-01 11:41:17,020 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:41:19,297 - INFO - Status: Listening...
+2025-09-01 11:41:25,451 - INFO - Voice command: what can you do
+2025-09-01 11:41:25,451 - INFO - Processing: what can you do
+2025-09-01 11:41:25,460 - INFO - Status: I can help you with weather, calculations, timers, web searches, file operations, music control, translations, scheduling, navigation, and much more! Just ask me naturally, like 'What's the weather?' or 'Set a timer for 10 minutes'.
+2025-09-01 11:41:25,478 - INFO - Speaking: I can help you with weather, calculations, timers, web searches, file operations, music control, translations, scheduling, navigation, and much more! Just ask me naturally, like 'What's the weather?' or 'Set a timer for 10 minutes'.
+2025-09-01 11:41:26,766 - INFO - Status: Listening...
+2025-09-01 11:41:29,711 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:41:31,976 - INFO - Status: Listening...
+2025-09-01 11:41:35,463 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:41:37,752 - INFO - Status: Listening...
+2025-09-01 11:41:40,990 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:41:43,267 - INFO - Status: Listening...
+2025-09-01 11:41:45,397 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:41:47,660 - INFO - Status: Listening...
+2025-09-01 11:41:57,411 - INFO - Voice command: set a timer for 10 minutes
+2025-09-01 11:41:57,411 - INFO - Processing: set a timer for 10 minutes
+2025-09-01 11:41:57,412 - INFO - Timer set for 10 minutes
+2025-09-01 11:41:57,413 - INFO - Status: Timer set for 10 minutes.
+2025-09-01 11:41:57,422 - INFO - Speaking: Timer set for 10 minutes.
+2025-09-01 11:41:58,714 - INFO - Status: Listening...
+2025-09-01 11:42:01,324 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:42:03,591 - INFO - Status: Listening...
+2025-09-01 11:42:05,737 - INFO - Voice command: notepad
+2025-09-01 11:42:05,737 - INFO - Processing: notepad
+2025-09-01 11:42:05,744 - INFO - Status: Can you be more specific about what you need?
+2025-09-01 11:42:05,753 - INFO - Speaking: Can you be more specific about what you need?
+2025-09-01 11:42:07,038 - INFO - Status: Listening...
+2025-09-01 11:42:09,913 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:42:12,184 - INFO - Status: Listening...
+2025-09-01 11:42:20,719 - INFO - Voice command: open note
+2025-09-01 11:42:20,719 - INFO - Processing: open note
+2025-09-01 11:42:20,722 - INFO - Status: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:42:20,729 - INFO - Speaking: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:42:22,011 - INFO - Status: Listening...
+2025-09-01 11:42:26,227 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:42:28,504 - INFO - Status: Listening...
+2025-09-01 11:42:31,096 - INFO - Voice command: open notepad
+2025-09-01 11:42:31,096 - INFO - Processing: open notepad
+2025-09-01 11:42:31,099 - INFO - Status: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:42:31,108 - INFO - Speaking: Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-09-01 11:42:32,397 - INFO - Status: Listening...
+2025-09-01 11:42:35,281 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:42:37,545 - INFO - Status: Listening...
+2025-09-01 11:42:39,805 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 11:42:41,868 - INFO - Conversation history cleared
+2025-09-01 11:42:42,084 - INFO - Status: Listening...
+2025-09-01 11:42:43,317 - INFO - Saved theme: light
+2025-09-01 11:42:43,317 - INFO - Theme changed to light
+2025-09-01 11:42:45,481 - INFO - Saved theme: dark
+2025-09-01 11:42:45,481 - INFO - Theme changed to dark
+2025-09-01 11:42:46,336 - INFO - Saved theme: light
+2025-09-01 11:42:46,337 - INFO - Theme changed to light
+2025-09-01 11:42:46,897 - INFO - Saved theme: dark
+2025-09-01 11:42:46,897 - INFO - Theme changed to dark
+2025-09-01 11:42:47,515 - INFO - Saved theme: light
+2025-09-01 11:42:47,515 - INFO - Theme changed to light
+2025-09-01 11:42:48,074 - INFO - Saved theme: dark
+2025-09-01 11:42:48,074 - INFO - Theme changed to dark
+2025-09-01 11:42:49,249 - INFO - Shutting down Aura Assistant...
+2025-09-01 11:42:53,123 - ERROR - Status update error: main thread is not in main loop
+2025-09-01 11:51:57,413 - INFO - Speaking: Timer for 10 minutes has finished!
+2025-09-01 13:01:31,054 - ERROR - Translator initialization failed: name 'Translator' is not defined
+2025-09-01 13:01:32,214 - INFO - Status: I'm listening...
+2025-09-01 13:01:32,220 - INFO - Speaking: Good afternoon! How can I help you?
+2025-09-01 13:01:32,221 - ERROR - Speech error: run loop already started
+2025-09-01 13:01:32,226 - ERROR - Speech retry failed: run loop already started
+2025-09-01 13:01:32,229 - INFO - Played startup sound
+2025-09-01 13:01:33,279 - ERROR - Status update error: main thread is not in main loop
+2025-09-01 13:01:33,577 - INFO - Status: Listening...
+2025-09-01 13:01:34,286 - ERROR - History update error: main thread is not in main loop
+2025-09-01 13:01:38,833 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:01:41,133 - INFO - Status: Listening...
+2025-09-01 13:01:43,379 - INFO - Voice command: open google
+2025-09-01 13:01:43,379 - INFO - Processing: open google
+2025-09-01 13:01:43,426 - INFO - Status: Opening Google.
+2025-09-01 13:01:43,431 - INFO - Speaking: Opening Google.
+2025-09-01 13:01:44,831 - INFO - Status: Listening...
+2025-09-01 13:01:52,270 - INFO - Voice command: play saiyaara on youtube
+2025-09-01 13:01:52,270 - INFO - Processing: play saiyaara on youtube
+2025-09-01 13:01:52,305 - INFO - Status: Searching for 'saiyaara' on YouTube.
+2025-09-01 13:01:52,314 - INFO - Speaking: Searching for 'saiyaara' on YouTube.
+2025-09-01 13:01:53,726 - INFO - Status: Listening...
+2025-09-01 13:01:55,743 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:01:58,067 - INFO - Status: Listening...
+2025-09-01 13:02:11,541 - INFO - Voice command: what is the weather today on ahmedabad
+2025-09-01 13:02:11,541 - INFO - Processing: what is the weather today on ahmedabad
+2025-09-01 13:02:11,896 - INFO - Status: Weather data not available for today on ahmedabad. Please check the city name.
+2025-09-01 13:02:11,905 - INFO - Speaking: Weather data not available for today on ahmedabad. Please check the city name.
+2025-09-01 13:02:13,196 - INFO - Status: Listening...
+2025-09-01 13:02:19,143 - INFO - Voice command: weather in ahmedabad
+2025-09-01 13:02:19,144 - INFO - Processing: weather in ahmedabad
+2025-09-01 13:02:19,231 - INFO - Status: Weather in ahmedabad: overcast clouds, 32°C (feels like 36°C), humidity 60%.
+2025-09-01 13:02:19,238 - INFO - Speaking: Weather in ahmedabad: overcast clouds, 32°C (feels like 36°C), humidity 60%.
+2025-09-01 13:02:20,527 - INFO - Status: Listening...
+2025-09-01 13:02:23,466 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:02:25,733 - INFO - Status: Listening...
+2025-09-01 13:02:29,332 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:02:31,614 - INFO - Status: Listening...
+2025-09-01 13:02:35,494 - INFO - Voice command: what is the
+2025-09-01 13:02:35,494 - INFO - Processing: what is the
+2025-09-01 13:02:35,497 - INFO - Status: Could you clarify what you'd like me to do?
+2025-09-01 13:02:35,506 - INFO - Speaking: Could you clarify what you'd like me to do?
+2025-09-01 13:02:36,790 - INFO - Status: Listening...
+2025-09-01 13:02:42,955 - INFO - Voice command: what is the date today
+2025-09-01 13:02:42,956 - INFO - Processing: what is the date today
+2025-09-01 13:02:42,958 - INFO - Status: Today is Monday, September 01, 2025.
+2025-09-01 13:02:42,977 - INFO - Speaking: Today is Monday, September 01, 2025.
+2025-09-01 13:02:44,270 - INFO - Status: Listening...
+2025-09-01 13:02:51,468 - INFO - Voice command: what is the time
+2025-09-01 13:02:51,469 - INFO - Processing: what is the time
+2025-09-01 13:02:51,472 - INFO - Status: The current time is 01:02 PM.
+2025-09-01 13:02:51,481 - INFO - Speaking: The current time is 01:02 PM.
+2025-09-01 13:02:52,775 - INFO - Status: Listening...
+2025-09-01 13:02:59,517 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:03:01,824 - INFO - Status: Listening...
+2025-09-01 13:03:03,652 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:03:05,922 - INFO - Status: Listening...
+2025-09-01 13:03:08,084 - INFO - Voice command: necklace
+2025-09-01 13:03:08,084 - INFO - Processing: necklace
+2025-09-01 13:03:08,087 - INFO - Status: I didn't quite catch that. Please try again.
+2025-09-01 13:03:08,103 - INFO - Speaking: I didn't quite catch that. Please try again.
+2025-09-01 13:03:09,392 - INFO - Status: Listening...
+2025-09-01 13:03:11,285 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:03:13,565 - INFO - Status: Listening...
+2025-09-01 13:03:16,227 - INFO - Voice command: netflix
+2025-09-01 13:03:16,228 - INFO - Processing: netflix
+2025-09-01 13:03:16,230 - INFO - Status: Could you clarify what you'd like me to do?
+2025-09-01 13:03:16,239 - INFO - Speaking: Could you clarify what you'd like me to do?
+2025-09-01 13:03:17,521 - INFO - Status: Listening...
+2025-09-01 13:03:22,628 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:03:24,908 - INFO - Status: Listening...
+2025-09-01 13:03:29,893 - INFO - Voice command: open open netflix
+2025-09-01 13:03:29,893 - INFO - Processing: open open netflix
+2025-09-01 13:03:29,926 - INFO - Status: Opening Netflix.
+2025-09-01 13:03:29,934 - INFO - Speaking: Opening Netflix.
+2025-09-01 13:03:31,283 - INFO - Status: Listening...
+2025-09-01 13:03:39,184 - INFO - Voice command: open spotify
+2025-09-01 13:03:39,184 - INFO - Processing: open spotify
+2025-09-01 13:03:39,211 - INFO - Status: Opening Spotify.
+2025-09-01 13:03:39,219 - INFO - Speaking: Opening Spotify.
+2025-09-01 13:03:40,561 - INFO - Status: Listening...
+2025-09-01 13:03:42,554 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:03:44,897 - INFO - Status: Listening...
+2025-09-01 13:03:49,546 - INFO - Voice command: can you calculate 10 +
+2025-09-01 13:03:49,546 - INFO - Processing: can you calculate 10 +
+2025-09-01 13:03:49,550 - INFO - Status: I couldn't calculate that. Please check your expression. Error: Invalid expression: invalid syntax (<string>, line 1)
+2025-09-01 13:03:49,564 - INFO - Speaking: I couldn't calculate that. Please check your expression. Error: Invalid expression: invalid syntax (<string>, line 1)
+2025-09-01 13:03:50,850 - INFO - Status: Listening...
+2025-09-01 13:03:53,103 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:03:55,374 - INFO - Status: Listening...
+2025-09-01 13:04:00,592 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:04:02,866 - INFO - Status: Listening...
+2025-09-01 13:04:05,674 - INFO - Voice command: class 2
+2025-09-01 13:04:05,674 - INFO - Processing: class 2
+2025-09-01 13:04:05,677 - INFO - Status: I'm not sure I understand. Could you rephrase that?
+2025-09-01 13:04:05,684 - INFO - Speaking: I'm not sure I understand. Could you rephrase that?
+2025-09-01 13:04:06,967 - INFO - Status: Listening...
+2025-09-01 13:04:09,862 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:04:12,153 - INFO - Status: Listening...
+2025-09-01 13:04:17,226 - INFO - Voice command: 10 + 2
+2025-09-01 13:04:17,227 - INFO - Processing: 10 + 2
+2025-09-01 13:04:17,229 - INFO - Status: I'm here to help! What would you like to know or do?
+2025-09-01 13:04:17,237 - INFO - Speaking: I'm here to help! What would you like to know or do?
+2025-09-01 13:04:18,521 - INFO - Status: Listening...
+2025-09-01 13:04:23,303 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-01 13:04:25,586 - INFO - Status: Listening...
+2025-09-01 13:04:27,445 - INFO - Saved theme: light
+2025-09-01 13:04:27,445 - INFO - Theme changed to light
+2025-09-01 13:04:28,647 - INFO - Saved theme: dark
+2025-09-01 13:04:28,648 - INFO - Theme changed to dark
+2025-09-01 13:04:30,161 - INFO - Shutting down Aura Assistant...
+2025-09-01 13:04:36,612 - ERROR - Status update error: main thread is not in main loop
+2025-09-04 09:48:38,795 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 09:48:38,795 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-09-04 09:48:39,600 - ERROR - Translator initialization failed: name 'Translator' is not defined
+2025-09-04 09:48:41,560 - INFO - Status: I'm listening...
+2025-09-04 09:48:41,571 - INFO - Speaking: Good morning! I'm ready to assist you today.
+2025-09-04 09:48:41,601 - INFO - Played startup sound
+2025-09-04 09:48:43,325 - INFO - Status: Listening...
+2025-09-04 09:48:57,354 - INFO - Shutting down Aura Assistant...
+2025-09-04 18:04:45,129 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 18:04:45,132 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-09-04 18:04:48,309 - INFO - Status: \U0001f3af I'm listening...
+2025-09-04 18:04:48,347 - INFO - Speaking: Good evening! What can I do for you?
+2025-09-04 18:04:48,358 - INFO - Played startup sound
+2025-09-04 18:04:49,900 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:04:53,338 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:04:55,661 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:04:58,122 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:00,436 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:08,355 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:10,717 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:20,831 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:23,150 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:25,937 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:28,295 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:32,474 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:33,839 - INFO - Saved theme: light
+2025-09-04 18:05:33,839 - INFO - Theme changed to light
+2025-09-04 18:05:34,810 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:37,179 - INFO - Saved theme: dark
+2025-09-04 18:05:37,179 - INFO - Theme changed to dark
+2025-09-04 18:05:38,524 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:40,853 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:46,496 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:48,835 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:51,549 - INFO - Saved theme: light
+2025-09-04 18:05:51,549 - INFO - Theme changed to light
+2025-09-04 18:05:51,733 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 18:05:52,220 - INFO - Saved theme: dark
+2025-09-04 18:05:52,220 - INFO - Theme changed to dark
+2025-09-04 18:05:54,046 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 18:05:55,329 - INFO - Shutting down Aura Assistant...
+2025-09-04 18:05:55,387 - INFO - Status: \U0001f44b Goodbye! Thanks for using Sayank.AI
+2025-09-04 18:05:59,213 - ERROR - Status update error: main thread is not in main loop
+2025-09-04 19:30:14,637 - INFO - Status: \U0001f3af I'm listening...
+2025-09-04 19:30:14,648 - INFO - Speaking: Good evening! What can I do for you?
+2025-09-04 19:30:14,662 - INFO - Played startup sound
+2025-09-04 19:30:16,138 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:19,594 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 19:30:21,923 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:24,913 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 19:30:27,247 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:30,483 - INFO - Voice command: open google
+2025-09-04 19:30:30,483 - INFO - Processing: open google
+2025-09-04 19:30:30,715 - INFO - Status: \U0001f310 Opening Google.
+2025-09-04 19:30:30,744 - INFO - Speaking: \U0001f310 Opening Google.
+2025-09-04 19:30:32,126 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:37,354 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 19:30:39,678 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:43,416 - INFO - Voice command: open netflix
+2025-09-04 19:30:43,416 - INFO - Processing: open netflix
+2025-09-04 19:30:43,456 - INFO - Status: \U0001f310 Opening Netflix.
+2025-09-04 19:30:43,477 - INFO - Speaking: \U0001f310 Opening Netflix.
+2025-09-04 19:30:44,908 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:49,514 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 19:30:51,884 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:30:55,290 - INFO - Voice command: what is the temperature
+2025-09-04 19:30:55,290 - INFO - Processing: what is the temperature
+2025-09-04 19:30:55,314 - INFO - Status: \U0001f4ad Can you be more specific about what you need?
+2025-09-04 19:30:55,340 - INFO - Speaking: \U0001f4ad Can you be more specific about what you need?
+2025-09-04 19:30:56,678 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:31:00,535 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 19:31:01,819 - INFO - Saved theme: light
+2025-09-04 19:31:01,819 - INFO - Theme changed to light
+2025-09-04 19:31:02,844 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:31:03,282 - INFO - Saved theme: dark
+2025-09-04 19:31:03,282 - INFO - Theme changed to dark
+2025-09-04 19:31:04,211 - INFO - Saved theme: light
+2025-09-04 19:31:04,211 - INFO - Theme changed to light
+2025-09-04 19:31:04,844 - INFO - Saved theme: dark
+2025-09-04 19:31:04,844 - INFO - Theme changed to dark
+2025-09-04 19:31:05,279 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-09-04 19:31:05,496 - INFO - Saved theme: light
+2025-09-04 19:31:05,496 - INFO - Theme changed to light
+2025-09-04 19:31:06,008 - INFO - Saved theme: dark
+2025-09-04 19:31:06,019 - INFO - Theme changed to dark
+2025-09-04 19:31:07,580 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-09-04 19:31:08,063 - INFO - Shutting down Aura Assistant...
+2025-09-04 19:31:08,066 - INFO - Status: \U0001f44b Goodbye! Thanks for using Sayank.AI
+2025-09-04 19:31:14,871 - ERROR - Status update error: main thread is not in main loop
+2025-09-17 23:34:00,212 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-17 23:34:00,212 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-09-17 23:34:00,411 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2025-09-17 23:34:00,420 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-09-17 23:34:00,671 - INFO - # Generating comtypes.gen.SpeechLib
+2025-09-17 23:34:02,028 - ERROR - Translator initialization failed: name 'Translator' is not defined
+2025-09-17 23:34:04,313 - INFO - Status: I'm listening...
+2025-09-17 23:34:04,323 - INFO - Speaking: Good night! I'm here if you need anything.
+2025-09-17 23:34:04,353 - INFO - Played startup sound
+2025-09-17 23:34:06,039 - INFO - Status: Listening...
+2025-09-17 23:34:09,350 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-17 23:34:11,697 - INFO - Status: Listening...
+2025-09-17 23:34:14,629 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-17 23:34:16,946 - INFO - Status: Listening...
+2025-09-17 23:34:21,091 - INFO - Status: Sorry, I couldn't understand that. Please try again.
+2025-09-17 23:34:23,452 - INFO - Status: Listening...
+2025-09-17 23:34:26,448 - INFO - Saved theme: light
+2025-09-17 23:34:26,448 - INFO - Theme changed to light
+2025-09-17 23:34:27,881 - INFO - Saved theme: dark
+2025-09-17 23:34:27,882 - INFO - Theme changed to dark
+2025-09-17 23:34:28,588 - INFO - Saved theme: light
+2025-09-17 23:34:28,588 - INFO - Theme changed to light
+2025-09-17 23:34:29,184 - INFO - Saved theme: dark
+2025-09-17 23:34:29,185 - INFO - Theme changed to dark
+2025-09-17 23:34:31,019 - INFO - Shutting down Aura Assistant...
+2025-09-17 23:34:34,149 - ERROR - Status update error: main thread is not in main loop
+2025-10-28 12:55:21,920 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-28 12:55:21,921 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2025-10-28 12:55:24,370 - INFO - Status: \U0001f3af I'm listening...
+2025-10-28 12:55:24,428 - INFO - Speaking: Good afternoon! How can I help you?
+2025-10-28 12:55:24,456 - INFO - Played startup sound
+2025-10-28 12:55:26,230 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:55:29,674 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:55:32,014 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:55:36,082 - INFO - Voice command: open youtube
+2025-10-28 12:55:36,083 - INFO - Processing: open youtube
+2025-10-28 12:55:36,332 - INFO - Status: \U0001f310 Opening Youtube.
+2025-10-28 12:55:36,366 - INFO - Speaking: \U0001f310 Opening Youtube.
+2025-10-28 12:55:37,785 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:55:41,376 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:55:43,708 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:55:50,517 - INFO - Voice command: open google
+2025-10-28 12:55:50,517 - INFO - Processing: open google
+2025-10-28 12:55:50,560 - INFO - Status: \U0001f310 Opening Google.
+2025-10-28 12:55:50,618 - INFO - Speaking: \U0001f310 Opening Google.
+2025-10-28 12:55:51,977 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:55:55,627 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:55:58,013 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:01,037 - INFO - Voice command: what is today's day
+2025-10-28 12:56:01,037 - INFO - Processing: what is today's day
+2025-10-28 12:56:01,042 - INFO - Status: \U0001f914 I'm not sure I understand. Could you rephrase that?
+2025-10-28 12:56:01,057 - INFO - Speaking: \U0001f914 I'm not sure I understand. Could you rephrase that?
+2025-10-28 12:56:02,398 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:04,753 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:07,065 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:07,754 - INFO - Saved theme: light
+2025-10-28 12:56:07,754 - INFO - Theme changed to light
+2025-10-28 12:56:08,432 - INFO - Saved theme: dark
+2025-10-28 12:56:08,432 - INFO - Theme changed to dark
+2025-10-28 12:56:11,330 - INFO - Voice command: weather of today
+2025-10-28 12:56:11,330 - INFO - Processing: weather of today
+2025-10-28 12:56:15,656 - INFO - Status: \U0001f30d Weather data not available for of today. Please check the city name.
+2025-10-28 12:56:15,694 - INFO - Speaking: \U0001f30d Weather data not available for of today. Please check the city name.
+2025-10-28 12:56:17,068 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:20,789 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:23,136 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:28,860 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:31,213 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:35,198 - INFO - Voice command: what can you do
+2025-10-28 12:56:35,198 - INFO - Processing: what can you do
+2025-10-28 12:56:35,350 - INFO - Status: \U0001f680 I can help you with weather, calculations, timers, web searches, file operations, music control, translations, scheduling, navigation, and much more! Just ask me naturally, like 'What's the weather?' or 'Set a timer for 10 minutes'.
+2025-10-28 12:56:35,429 - INFO - Speaking: \U0001f680 I can help you with weather, calculations, timers, web searches, file operations, music control, translations, scheduling, navigation, and much more! Just ask me naturally, like 'What's the weather?' or 'Set a timer for 10 minutes'.
+2025-10-28 12:56:36,791 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:41,816 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:44,139 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:46,157 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:48,499 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:50,981 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:53,315 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:56:56,378 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:56:58,744 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:04,228 - INFO - Voice command: what is the weather
+2025-10-28 12:57:04,228 - INFO - Processing: what is the weather
+2025-10-28 12:57:04,676 - INFO - Requested http://ipinfo.io/json
+2025-10-28 12:57:04,935 - INFO - Status: \U0001f326\ufe0f Weather in Ahmedabad: Light Intensity Drizzle, 26°C (feels like 26°C), humidity 78%.
+2025-10-28 12:57:04,972 - INFO - Speaking: \U0001f326\ufe0f Weather in Ahmedabad: Light Intensity Drizzle, 26°C (feels like 26°C), humidity 78%.
+2025-10-28 12:57:06,312 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:08,653 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:57:10,974 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:14,132 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:57:16,464 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:22,107 - INFO - Voice command: open instagram
+2025-10-28 12:57:22,108 - INFO - Processing: open instagram
+2025-10-28 12:57:22,149 - INFO - Status: \U0001f310 Opening Instagram.
+2025-10-28 12:57:22,162 - INFO - Speaking: \U0001f310 Opening Instagram.
+2025-10-28 12:57:23,562 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:26,980 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:57:29,327 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:33,839 - INFO - Voice command: open 6gb
+2025-10-28 12:57:33,839 - INFO - Processing: open 6gb
+2025-10-28 12:57:33,841 - INFO - Status: \U0001f310 Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-10-28 12:57:33,852 - INFO - Speaking: \U0001f310 Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-10-28 12:57:35,209 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:38,563 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:57:40,871 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:47,641 - INFO - Voice command: open chat gpt
+2025-10-28 12:57:47,641 - INFO - Processing: open chat gpt
+2025-10-28 12:57:47,647 - INFO - Status: \U0001f310 Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-10-28 12:57:47,698 - INFO - Speaking: \U0001f310 Please specify a website to open (e.g., 'open YouTube' or 'open google.com').
+2025-10-28 12:57:49,034 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:57:52,353 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:57:54,682 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:00,417 - INFO - Voice command: open spotify
+2025-10-28 12:58:00,417 - INFO - Processing: open spotify
+2025-10-28 12:58:00,456 - INFO - Status: \U0001f310 Opening Spotify.
+2025-10-28 12:58:00,474 - INFO - Speaking: \U0001f310 Opening Spotify.
+2025-10-28 12:58:01,880 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:05,353 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:58:07,689 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:12,087 - INFO - Voice command: tell me some joke
+2025-10-28 12:58:12,087 - INFO - Processing: tell me some joke
+2025-10-28 12:58:12,113 - INFO - Status: \U0001f604 How do you comfort a JavaScript bug? You console it!
+2025-10-28 12:58:12,129 - INFO - Speaking: \U0001f604 How do you comfort a JavaScript bug? You console it!
+2025-10-28 12:58:13,472 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:16,810 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:58:19,146 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:21,764 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:58:24,113 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:26,539 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:58:28,855 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:35,070 - INFO - Voice command: + 5 and 3
+2025-10-28 12:58:35,070 - INFO - Processing: + 5 and 3
+2025-10-28 12:58:35,073 - INFO - Status: \U0001f3af I didn't quite catch that. Please try again.
+2025-10-28 12:58:35,079 - INFO - Speaking: \U0001f3af I didn't quite catch that. Please try again.
+2025-10-28 12:58:36,427 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:41,888 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:58:44,241 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:58:49,012 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:58:51,390 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:00,127 - INFO - Voice command: ok compute 5 + 3
+2025-10-28 12:59:00,127 - INFO - Processing: ok compute 5 + 3
+2025-10-28 12:59:00,136 - INFO - Status: \u274c I couldn't calculate that. Please check your expression.
+2025-10-28 12:59:00,150 - INFO - Speaking: \u274c I couldn't calculate that. Please check your expression.
+2025-10-28 12:59:01,502 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:05,231 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:07,571 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:11,896 - INFO - Voice command: compute 5 add
+2025-10-28 12:59:11,896 - INFO - Processing: compute 5 add
+2025-10-28 12:59:11,897 - INFO - Status: \u274c I couldn't calculate that. Please check your expression.
+2025-10-28 12:59:11,904 - INFO - Speaking: \u274c I couldn't calculate that. Please check your expression.
+2025-10-28 12:59:13,228 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:16,840 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:19,147 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:21,238 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:23,575 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:25,822 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:28,168 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:30,183 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:32,505 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:38,141 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:40,483 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:45,865 - INFO - Voice command: super kannada
+2025-10-28 12:59:45,866 - INFO - Processing: super kannada
+2025-10-28 12:59:45,867 - INFO - Status: \u2753 Could you clarify what you'd like me to do?
+2025-10-28 12:59:45,873 - INFO - Speaking: \u2753 Could you clarify what you'd like me to do?
+2025-10-28 12:59:47,192 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:49,558 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 12:59:51,882 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 12:59:58,593 - INFO - Voice command: good morning
+2025-10-28 12:59:58,593 - INFO - Processing: good morning
+2025-10-28 12:59:58,596 - INFO - Status: \U0001f3af I didn't quite catch that. Please try again.
+2025-10-28 12:59:58,605 - INFO - Speaking: \U0001f3af I didn't quite catch that. Please try again.
+2025-10-28 12:59:59,937 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:02,377 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:00:04,723 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:08,811 - INFO - Voice command: main ghar se nahin to banaa kar
+2025-10-28 13:00:08,811 - INFO - Processing: main ghar se nahin to banaa kar
+2025-10-28 13:00:08,847 - INFO - Status: \U0001f44b Hey! Ready to assist you.
+2025-10-28 13:00:08,878 - INFO - Speaking: \U0001f44b Hey! Ready to assist you.
+2025-10-28 13:00:10,370 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:12,615 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:00:14,941 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:21,452 - INFO - Voice command: set timer for 5 minutes
+2025-10-28 13:00:21,452 - INFO - Processing: set timer for 5 minutes
+2025-10-28 13:00:21,453 - INFO - Timer set for 5 minutes
+2025-10-28 13:00:21,454 - INFO - Status: \u2705 Timer set for 5 minutes.
+2025-10-28 13:00:21,461 - INFO - Speaking: \u2705 Timer set for 5 minutes.
+2025-10-28 13:00:22,804 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:25,044 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:00:27,386 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:30,127 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:00:32,469 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:35,874 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:00:38,197 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:45,544 - INFO - Voice command: 2 + 26 +
+2025-10-28 13:00:45,544 - INFO - Processing: 2 + 26 +
+2025-10-28 13:00:45,580 - INFO - Status: \U0001f4ad Can you be more specific about what you need?
+2025-10-28 13:00:45,599 - INFO - Speaking: \U0001f4ad Can you be more specific about what you need?
+2025-10-28 13:00:46,945 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:51,266 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:00:53,611 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:00:58,773 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2025-10-28 13:01:01,095 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:01:05,408 - INFO - Voice command: goodbye
+2025-10-28 13:01:05,408 - INFO - Processing: goodbye
+2025-10-28 13:01:05,409 - INFO - Status: \U0001f44b Goodbye! Have a wonderful day!
+2025-10-28 13:01:05,418 - INFO - Speaking: \U0001f44b Goodbye! Have a wonderful day!
+2025-10-28 13:01:06,763 - INFO - Status: \U0001f3a7 Listening for your voice...
+2025-10-28 13:01:08,409 - INFO - Shutting down Aura Assistant...
+2025-10-28 13:01:08,411 - INFO - Status: \U0001f44b Goodbye! Thanks for using Sayank.AI
+2025-10-28 13:01:11,725 - ERROR - Status update error: main thread is not in main loop
+2026-03-03 23:56:18,380 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sanjh\\miniconda3\\envs\\yolov8_gpu\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-03 23:56:18,381 - INFO - Using writeable comtypes cache directory: 'C:\Users\sanjh\miniconda3\envs\yolov8_gpu\lib\site-packages\comtypes\gen'
+2026-03-03 23:56:18,553 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-03-03 23:56:18,560 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-03-03 23:56:18,819 - INFO - # Generating comtypes.gen.SpeechLib
+2026-03-03 23:56:22,561 - INFO - Status: \U0001f3af I'm listening...
+2026-03-03 23:56:22,605 - INFO - Speaking: Good night! I'm here if you need anything.
+2026-03-03 23:56:22,631 - INFO - Played startup sound
+2026-03-03 23:56:24,310 - INFO - Status: \U0001f3a7 Listening for your voice...
+2026-03-03 23:56:28,205 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2026-03-03 23:56:30,504 - INFO - Status: \U0001f3a7 Listening for your voice...
+2026-03-03 23:56:31,004 - INFO - Shutting down Aura Assistant...
+2026-03-03 23:56:31,027 - INFO - Status: \U0001f44b Goodbye! Thanks for using Sayank.AI
+2026-03-03 23:56:41,211 - ERROR - Status update error: main thread is not in main loop
+2026-03-04 00:22:34,248 - INFO - Status: \U0001f3af System ready. Listening...
+2026-03-04 00:22:34,272 - INFO - Speaking: Hello! I'm here to help, whatever you need.
+2026-03-04 00:22:35,694 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:22:39,562 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2026-03-04 00:22:41,843 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:22:45,312 - INFO - Voice command: what's the time now what is the time now
+2026-03-04 00:22:45,313 - INFO - Processing: what's the time now what is the time now
+2026-03-04 00:22:45,326 - INFO - Status: \u23f0 The current time is 12:22 AM.
+2026-03-04 00:22:45,355 - INFO - Speaking: \u23f0 The current time is 12:22 AM.
+2026-03-04 00:22:46,747 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:22:49,167 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2026-03-04 00:22:51,451 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:22:57,218 - INFO - Voice command: open youtube
+2026-03-04 00:22:57,218 - INFO - Processing: open youtube
+2026-03-04 00:22:57,501 - INFO - Status: \U0001f310 Opening Youtube.
+2026-03-04 00:22:57,525 - INFO - Speaking: \U0001f310 Opening Youtube.
+2026-03-04 00:22:58,927 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:23:02,036 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2026-03-04 00:23:04,340 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:23:12,237 - INFO - Status: \U0001f914 Sorry, I couldn't understand that. Please try again.
+2026-03-04 00:23:14,511 - INFO - Status: \U0001f3a7 Listening...
+2026-03-04 00:23:16,694 - INFO - Saved theme: light
+2026-03-04 00:23:18,193 - INFO - Saved theme: dark
+2026-03-04 00:23:21,044 - INFO - Status: History exported to conversation_export_20260304_002321.txt
+2026-03-04 00:23:24,446 - INFO - Shutting down Aura Assistant...
+2026-03-04 00:23:24,452 - INFO - Status: \U0001f44b Goodbye! Thanks for using Aura

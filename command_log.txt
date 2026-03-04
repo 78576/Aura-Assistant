@@ -1,0 +1,90 @@
+2025-06-08 00:19:12.710443: You: hi
+2025-06-08 00:19:12.712583: Aura: Hi there! What's up?
+2025-06-08 00:19:18.736141: You: i am good
+2025-06-08 00:19:18.738141: Aura: Glad to hear that!
+2025-06-08 00:19:24.048653: You: how are you
+2025-06-08 00:19:24.050764: Aura: All good here! How's your day going?
+2025-06-08 00:19:29.237885: You: grat
+2025-06-08 00:19:29.238951: Aura: Thanks for sharing! How can I assist you now?
+2025-06-08 00:19:38.190840: You: what is the time
+2025-06-08 00:19:38.192858: Aura: The current time is 12:19 AM.
+2025-06-08 00:20:05.654621: You: what is the date
+2025-06-08 00:20:05.655623: Aura: Today is Sunday, June 08, 2025.
+2025-06-08 00:20:16.028595: You: what is the weather
+2025-06-08 00:20:16.517657: Aura: The weather in Ahmedabad is clear sky with a temperature of 32.83°C.
+2025-06-08 00:20:35.051794: You: tell me a joke
+2025-06-08 00:20:35.053806: Aura: Why did the scarecrow become a programmer? Because he was outstanding in his field!
+2025-06-08 00:43:35.658420: You: hi
+2025-06-08 00:43:35.659420: Aura: Hello! How can I help you?
+2025-06-08 00:43:40.373327: You: how are you
+2025-06-08 00:43:40.375300: Aura: I'm doing well, thank you! How about you?
+2025-06-08 00:43:49.248884: You: what is the ewearther
+2025-06-08 00:43:49.250401: Aura: Thanks for sharing! How can I assist you now?
+2025-06-08 00:43:58.385312: You: what is the weather
+2025-06-08 00:43:58.873405: Aura: The weather in Ahmedabad is clear sky with a temperature of 33.59°C.
+2025-06-08 00:44:20.947931: You: what is the date
+2025-06-08 00:44:20.949719: Aura: Today is Sunday, June 08, 2025.
+2025-06-08 00:46:24.633625: Aura: Ready to assist you.
+2025-06-08 00:47:42.094408: You: flower google it
+2025-06-08 00:47:42.262471: Aura: Searching for flower on Google.
+2025-06-08 00:47:54.650307: You: sanjh ladhani google it
+2025-06-08 00:47:54.685832: Aura: Searching for sanjh ladhani on Google.
+2025-06-08 16:24:04.105496: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:11.418978: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:18.251017: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:27.971247: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:33.544975: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:38.496484: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:43.287453: You: hi
+2025-06-08 16:24:43.289981: Aura: Hey! Ready to assist.
+2025-06-08 16:24:44.367288: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:49.669410: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-08 16:24:54.090891: Aura: Offline mode: Limited commands available (time, date, joke).
+2025-06-09 11:36:58.372882: You: hey aura
+2025-06-09 11:36:58.376445: Aura: Sorry, I didn't catch that. Try again?
+2025-06-09 11:37:20.285674: You: hey aura
+2025-06-09 11:37:20.287676: Aura: I'm not sure what you mean. Could you repeat that?
+2025-06-10 11:42:14.061706: Aura: Good morning! I'm listening and ready to assist.
+2025-06-10 11:42:20.705407: Aura: Good morning! I'm listening and ready to assist.
+2025-06-10 11:42:32.602808: You: hello
+2025-06-10 11:42:32.633429: Aura: Hi there! What's up?
+2025-06-10 11:42:37.295334: You: open youtube
+2025-06-10 11:42:37.572043: Aura: Playing open on YouTube.
+2025-06-10 18:37:36.089811: Aura: Good evening! I'm listening and ready to assist.
+2025-06-10 18:37:55.006037: You: open google
+2025-06-10 18:37:55.228642: Aura: Opening Google.
+2025-06-10 18:38:03.277917: You: hello how r u
+2025-06-10 18:38:03.291203: Aura: Hello! How can I help you?
+2025-06-10 18:38:14.724391: You: namak ishq ka on
+2025-06-10 18:38:14.739932: Aura: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:38:25.808528: You: namak ishq ka on youtube
+2025-06-10 18:38:25.863376: Aura: Playing namak ishq ka on YouTube.
+2025-06-10 18:38:46.214514: You: ice cream google
+2025-06-10 18:38:46.245110: Aura: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:38:53.855926: You: ice cream google
+2025-06-10 18:38:53.868945: Aura: I'm not sure how to respond. Please try a different phrase.
+2025-06-10 18:39:02.421623: You: ice cream google it it
+2025-06-10 18:39:02.459355: Aura: Searching for ice cream on Google.
+2025-06-10 18:39:14.376882: You: open youtube
+2025-06-10 18:39:14.436135: Aura: Playing open on YouTube.
+2025-06-10 18:39:24.421719: You: open notepad
+2025-06-10 18:39:24.761440: Aura: Opening Notepad.
+2025-06-10 18:39:34.170574: You: what is the weather
+2025-06-10 18:39:34.946167: Aura: The weather in Ahmedabad is clear sky with a temperature of 39.12°C.
+2025-06-10 18:39:50.613010: You: what is the day
+2025-06-10 18:39:50.629844: Aura: Could you clarify your command?
+2025-06-10 18:39:57.579570: You: what is the
+2025-06-10 18:39:57.592609: Aura: Sorry, I didn't catch that. Try again?
+2025-06-10 18:40:05.936541: You: what is the
+2025-06-10 18:40:05.965466: Aura: I'm not sure what you mean. Could you repeat that?
+2025-06-10 18:40:14.954555: You: what is the date date
+2025-06-10 18:40:14.980133: Aura: Today is Tuesday, June 10, 2025.
+2025-06-10 18:40:27.328958: You: any coffee shop near by me
+2025-06-10 18:40:27.344906: Aura: Sorry, I didn't catch that. Try again?
+2025-06-11 00:19:47.753362: Aura: Hello! I'm listening and ready to assist.
+2025-06-11 00:19:57.588360: You: hi
+2025-06-11 00:19:57.591871: Aura: Hi there! What's up?
+2025-06-11 00:20:04.903016: You: open google
+2025-06-11 00:20:05.054429: Aura: Opening Google.
+2025-06-11 00:20:18.774360: You: play masakali maskali on youtube
+2025-06-11 00:20:18.809123: Aura: Playing masakali maskali on YouTube.
